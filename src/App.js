@@ -40,5 +40,4 @@ function App(props) {
   );
 }
 
-
 export default connect(mapStateToProps)(App);
